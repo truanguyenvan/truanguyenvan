@@ -8,7 +8,7 @@
 
 🌟 Outside of work, I'm an avid learner and technology enthusiast. I enjoy exploring new tools and technologies, participating in hackathons, and contributing to open-source projects whenever I can.
 
-📫 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/truanguyenvan) or reach out via email at truanguyenvan@gmail.com. Let's collaborate and build something awesome together!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/truanguyenvan) or reach out via email at truanguyenvan@gmail.com. Let's collaborate and build something awesome together!
 
 <!---
 truanguyenvan/truanguyenvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
